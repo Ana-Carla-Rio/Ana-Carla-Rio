@@ -7,13 +7,13 @@
 
 ---
 
-### 📌 Sobre Mim
+### Sobre Mim
 
-- 🎓 Graduanda em **Gestão da Tecnologia da Informação** pelo **Senac**.
-- 💼 Bagagem sólida em **gestão administrativa, operações e processos**, atuando na organização de demandas, documentação, análise de problemas e comunicação estratégica entre equipes.
-- 🎯 Em **transição de carreira para a área de Tecnologia**, unindo visão prática de negócio a competências de Governança de TI, Análise de Processos e Desenvolvimento.
-- 🚀 Desenvolvendo projetos práticos com foco em **Python, APIs REST (OpenAPI), Banco de Dados, Google Cloud e boas práticas de arquitetura**.
-- 🔍 **Interesses profissionais:** Suporte de TI, Governança, Gestão de Processos, PMO, Análise de Negócios/Requisitos e Gestão de Projetos.
+ Graduanda em **Gestão da Tecnologia da Informação** pelo **Senac**.
+ Bagagem sólida em **gestão administrativa, operações e processos**, atuando na organização de demandas, documentação, análise de problemas e comunicação estratégica entre equipes.
+ Em **transição de carreira para a área de Tecnologia**, unindo visão prática de negócio a competências de Governança de TI, Análise de Processos e Desenvolvimento.
+ Desenvolvendo projetos práticos com foco em **Python, APIs REST (OpenAPI), Banco de Dados, Google Cloud e boas práticas de arquitetura**.
+ **Interesses profissionais:** Suporte de TI, Governança, Gestão de Processos, PMO, Análise de Negócios/Requisitos e Gestão de Projetos.
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 💡 Competências Interpessoais (Soft Skills)
+###  Competências Interpessoais (Soft Skills)
 
 - **Visão Sistêmica de Processos**: Facilidade em mapear fluxos operacionais e propor melhorias.
 - **Ponte Negócio-TI**: Habilidade em traduzir requisitos e dores do negócio para a linguagem técnica.
@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ana-Carla-Rio&show_icons=true&theme=radical" alt="Estatísticas GitHub" />
@@ -70,7 +70,7 @@
 
 ---
 
-### 📬 Contato
+### Contato
 
-- 💼 **LinkedIn:** [linkedin.com/in/ana-carla-rio-gaia](https://linkedin.com/in/ana-carla-rio-gaia)
-- ✉️ **E-mail:** [anacarlariog@gmail.com](mailto:anacarlariog@gmail.com)
+**LinkedIn:** [linkedin.com/in/ana-carla-rio-gaia](https://linkedin.com/in/ana-carla-rio-gaia)
+ **E-mail:** [anacarlariog@gmail.com](mailto:anacarlariog@gmail.com)
